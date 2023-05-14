@@ -1,0 +1,25 @@
+* {margin: 0;}
+main {
+    background-color: rgba(231, 230, 230, 0.747);
+    padding: 30px 20px 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+h1 {
+    font-size: 28px;
+    font-family: 'Segoe UI', sans-serif;
+}
+img {
+    width: 300px;
+    height: auto;
+    margin: 10px 0;
+}
+p {
+    text-align: justify;
+    font-size: 14px;
+    line-height: 22px;
+}
+span {
+    color: red;
+    font-weight: 600;
+}
